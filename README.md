@@ -9,5 +9,5 @@ NOTES:
    Stackoverflow
    Python functions documentations
 
-Also, during this assignment, I learned to use the * operator (to extract elements from lists,arrays, matrices and so on...) - which I find very useful and is why a lot of my fronts have that operator- and to write some specific functions that do specific tasks
+Also, during this assignment, I learned to use the * operator (to extract elements from lists,arrays, matrices and so on...) - which I find very useful and is why a lot of my "print" have that operator- and to write some specific functions that do specific tasks
 
